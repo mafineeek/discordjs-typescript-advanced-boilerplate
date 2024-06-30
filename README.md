@@ -28,6 +28,7 @@ interface ISlashCommand {
     client?: BotClient
   ) => Promise<void>;
 }
+```
 
 
 ## Installation
